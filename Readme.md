@@ -21,7 +21,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh-Jil&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/No-OnE-Kn0wS-Me">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sh-Jil&show_icons=true&theme=dark&line_height=30" alt="𝕾𝖍-𝕵𝖎𝖑's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sh-Jil&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200" alt="𝕾𝖍-𝕵𝖎𝖑's github stats"/>
 </a>
 <div align="center">
 
