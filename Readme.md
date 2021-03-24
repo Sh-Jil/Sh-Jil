@@ -3,13 +3,13 @@
 
 ## Connect With Meh
 <a href="https://github.com/Sh-Jil">
-  <img align="left" alt="Sh-Jil's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
+  <img align="left" alt="Sh-Jil's Github" width="22px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://t.me/ShijilRaj">
-  <img align="left" alt="Sh-Jil's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />
+  <img align="left" alt="Sh-Jil's Telegram" width="22px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/_emo_alien/">
-  <img align="left" alt="Sh-Jil's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
+  <img align="left" alt="Sh-Jil's Insta" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
  </a>..
 
 
