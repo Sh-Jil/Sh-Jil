@@ -13,6 +13,7 @@
  </a>
 <a href="https://wa.me/+919747355576">  
 <img align="left" alt="Sh-Jil's Whatsapp" width="100px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<br/>
 
 
 ⚜️Most Of My Repositories Are For Telegram
@@ -40,7 +41,6 @@
 
 <a href="https://python.org/">
 <img align="center" alt="Python" width="80px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
  
 <a href="https://code.visualstudio.com/">
 <img align="center" alt="Visual Studio Code" width="80px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
