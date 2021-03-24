@@ -3,13 +3,13 @@
 
 ## Connect With Meh
 <a href="https://github.com/Sh-Jil">
-  <img align="left" alt="Sh-Jil's Github" width="22px" src="https://worldvectorlogo.com/download/github-icon-1.svg" />
+  <img align="left" alt="Sh-Jil's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 </a>
 <a href="https://t.me/ShijilRaj">
-  <img align="left" alt="Sh-Jil's Telegram" width="22px" src="https://worldvectorlogo.com/download/telegram.svg" />
+  <img align="left" alt="Sh-Jil's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/_emo_alien/">
-  <img align="left" alt="Sh-Jil's Insta" width="22px" src="https://worldvectorlogo.com/download/instagram-2-1.svg" />
+  <img align="left" alt="Sh-Jil's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 
 
 - ⚜️Most Of My Repositories Are For Telegram
@@ -26,8 +26,12 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sh-Jil&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200" alt="𝕾𝖍-𝕵𝖎𝖑's github stats"/>
 </a>
 <div align="center">
+  
+  
   ### Languages and Tools I Love❤️
- <a href="https://python.org/">
+
+
+<a href="https://python.org/">
   <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
    
  <a href="https://code.visualstudio.com/">
