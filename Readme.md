@@ -43,11 +43,11 @@
 <img align="center" alt="Python" width="80px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
  
 <a href="https://code.visualstudio.com/">
-<img align="center" alt="Visual Studio Code" width="80px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
+<img align="center" alt="Visual Studio Code" width="100px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
   
 
 <a href="https://stackoverflow.com/">
-<img align="center" alt="StackOverFlow"  width="80px" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+<img align="center" alt="StackOverFlow"  width="100px" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 
  
  <a href="https://git-scm.com/">
