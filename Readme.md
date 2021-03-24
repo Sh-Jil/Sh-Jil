@@ -11,8 +11,8 @@
 <a href="https://www.instagram.com/_emo_alien/">
   <img align="left" alt="Sh-Jil's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 
-</n>
-## ⚜️Most Of My Repositories Are For Telegram
+
+/n ## ⚜️Most Of My Repositories Are For Telegram
 
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Sh-Jil/)
