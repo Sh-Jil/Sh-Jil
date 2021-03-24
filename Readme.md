@@ -11,10 +11,10 @@
 <a href="https://www.instagram.com/_emo_alien/">
   <img align="left" alt="Sh-Jil's Insta" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
  </a></p>
+...
 
-<p>
 **⚜️Most Of My Repositories Are For Telegram**
-</p>
+
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Sh-Jil/)
 
