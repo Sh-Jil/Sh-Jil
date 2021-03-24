@@ -10,8 +10,8 @@
 </a>
 <a href="https://www.instagram.com/_emo_alien/">
   <img align="left" alt="Sh-Jil's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
+<\n>
 
-\n
  **⚜️Most Of My Repositories Are For Telegram**
 
 
