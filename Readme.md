@@ -22,11 +22,11 @@
 
 
 <a href="https://github.com/Sh-Jil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh-Jil&theme=dark&hide_langs_below=1" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh-Jil&theme=dark&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Sh-Jil">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sh-Jil&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200" alt="𝕾𝖍-𝕵𝖎𝖑's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sh-Jil&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200" alt="𝕾𝖍-𝕵𝖎𝖑's github stats"/>
 </a>
 
 <div align="center">
@@ -36,20 +36,20 @@
 
 
 <a href="https://python.org/">
-  <img align="center"> alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
-</p>
+<img align="center"> alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
+
  
- <a href="https://code.visualstudio.com/">
+<a href="https://code.visualstudio.com/">
 <img align="center"> alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</p>
+
  
  <a href="https://git-scm.com/">
 <img align="center"> alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-</p>
+
 
 <a href="https://heroku.com/">
 <img align="center"> alt="Heroku" width="26px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />
-</p>
+
 
 <br />
 <br />
