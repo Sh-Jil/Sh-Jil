@@ -14,7 +14,7 @@
 
 
 
-<p> **⚜️Most Of My Repositories Are For Telegram**</p>
+<h3> **⚜️Most Of My Repositories Are For Telegram**</h3>
 
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Sh-Jil/)
@@ -34,6 +34,8 @@
   
   ### Languages and Tools I Love❤️
 
+<a href="https://www.microsoft.com/en-in/windows">
+<img align="center" alt="Python" width="26px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 <a href="https://python.org/">
 <img align="center" alt="Python" width="26px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -41,6 +43,10 @@
  
 <a href="https://code.visualstudio.com/">
 <img align="center" alt="Visual Studio Code" width="26px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  
+
+<a href="https://stackoverflow.com/">
+<img align="center" alt="StackOverFlow"  width="26px" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 
  
  <a href="https://git-scm.com/">
