@@ -10,10 +10,12 @@
 </a>
 <a href="https://www.instagram.com/_emo_alien/">
   <img align="left" alt="Sh-Jil's Insta" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
- </a></p>
-...
+ </a>
+<a href="https://wa.me/+919747355576">  
+<img align="left" alt="Sh-Jil's Whatsapp" width="100px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-**⚜️Most Of My Repositories Are For Telegram**
+
+## **⚜️Most Of My Repositories Are For Telegram**
 
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Sh-Jil/)
