@@ -21,10 +21,7 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Sh-Jil/)
 
-<a href="https://github.com/Sh-Jil">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh-Jil&theme=dark&hide_langs_below=1" />
-</a>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/Sh-Jil">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sh-Jil&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200" alt="𝕾𝖍-𝕵𝖎𝖑's github stats"/>
 </a>
