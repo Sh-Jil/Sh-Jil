@@ -1,4 +1,4 @@
-## Hola, I'm [𝕾𝖍-𝕵𝖎𝖑!](https://t.me/ShijilRaj)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+## Hola, I'm [𝕾𝖍-𝕵𝖎𝖑!](https://t.me/ShijilRaj)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px"></h1>
 
 
 ## Connect With Meh
